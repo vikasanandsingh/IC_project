@@ -98,6 +98,7 @@ int main(){
             }
             
     }
+    }
 
     fclose(f);
     close(sock);
